@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(212, 89, 171);
+  }
+  h1 {
+    color: rgb(0, 255, 76);
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.5em;
+    padding-left: 40px;
+  }
+
+  h2 {
+    color: rgb(0, 255, 76);
+  }
+
+  h4 {
+    color: rgb(0, 0, 0);
+  }
+
+  p {
+    color: rgb(0, 0, 0);
+  }
+
+  a {
+    color: rgb(0, 255, 76);
+  }
+
+  ol {
+    color: rgb(0, 0, 0);
+  }
+
+  ul {
+    color: rgb(0, 0, 0);
+  }
+
+.header{
+  margin-top: 25px;
+  margin-left: 95px;
+}
+
+.CalvinImage{
+  margin-top: 25px;
+  margin-left: 25px;
+}
+
+
+.ProfessionalLink{
+  margin-top: 1px;
+  margin-left: 25px;
+}
+
+.reaons{
+  margin-top: 1px;
+  margin-left: 100px;
+}
+
+.learn{
+  margin-top: 1px;
+  margin-left: 150px;
+}
